@@ -1,0 +1,56 @@
+*
+{margin:10px;}
+#principal{
+    margin:auto;
+    margin-top: 40 px;
+    border-radius: 30px;
+    border-style: solid;
+    width: 700px;
+    height:660px;
+    background-color:yellow;
+
+}
+#caja1
+{
+    margin:auto;
+    width: 100px;
+    height:100px;
+    border-radius: 100px;
+    background-color:aqua;
+ }
+
+ #caja2
+{
+    margin:auto;
+    width: 200px;
+    height:200px;
+    border-radius: 100px;
+    background-color:aqua;
+ }
+
+ #caja3
+{
+    margin:auto;
+    width: 300px;
+    height:300px;
+    border-radius: 150px;
+    background-color:aqua;
+ }
+
+ #caja4
+{
+    margin:auto;
+    width: 350px;
+    height:40px;
+    padding: 10px;
+    border-width: 800px;
+    border-radius: 150px;
+    background-color:aqua;
+ }
+
+ 
+ 
+
+ 
+
+ 
